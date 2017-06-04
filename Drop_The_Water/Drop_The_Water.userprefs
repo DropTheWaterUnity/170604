@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Scripts\Resource.cs">
+    <Files>
+      <File FileName="..\DrawLine-master\Assets\code\gamepage\default\Resource.cs" Line="17" Column="40" />
+      <File FileName="Assets\Resources\Scripts\Resource.cs" Line="18" Column="5" />
+      <File FileName="Assets\Resources\Scripts\floatObject.cs" Line="21" Column="3" />
+      <File FileName="..\DrawLine-master\Assets\code\gamepage\event\TouchEvent\btnEvent.cs" Line="15" Column="36" />
+      <File FileName="Assets\Resources\Scripts\hintbtnClicked.cs" Line="17" Column="2" />
+      <File FileName="Assets\Resources\Scripts\toHelpPage.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\toNextPage.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\MainPage\Objects\Map Object\Cup.cs" Line="6" Column="2" />
+      <File FileName="Assets\Resources\Scripts\MainPage\Objects\Map Object\Tap.cs" Line="20" Column="2" />
+      <File FileName="Assets\Resources\Scripts\MainPage\Objects\Instruction\Action.cs" Line="9" Column="75" />
+      <File FileName="Assets\Resources\Scripts\MainPage\Objects\Instruction\Instruction.cs" Line="186" Column="20" />
+      <File FileName="Assets\Resources\Scripts\MainPage\Objects\Instruction\Number.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\MainPage\Objects\Instruction\Instructions.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\MainPage\Objects\Instruction\btnEvent.cs" Line="48" Column="6" />
+      <File FileName="Assets\Resources\Scripts\FileStreamHelper.cs" Line="5" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
